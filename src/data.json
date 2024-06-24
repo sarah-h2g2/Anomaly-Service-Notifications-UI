@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "type": "high",
+        "title": "Templates Error above 90%",
+        "description": "If error templates were found in the ten-second window and if the count of these templates is greater than 0",
+        "read": false,
+        "metricUrl": "https://foo.com"
+    },
+    {   
+        "id": 2,
+        "type": "low",
+        "title": "Merchant service is down",
+        "description": " these templates are captured in the description field. If error templates are not present after an internal ranking algorithm",
+        "read": false,
+        "metricUrl": "https://foo.com"
+    },
+    {
+        "id": 3, 
+        "type": "high",
+        "title": "Cache miss ratio",
+        "description": "If error templates were found in the ten-second window and if the count of these templates is greater than 0",
+        "read": false,
+        "metricUrl": "https://foo.com"
+    },
+    {
+        "id": 4, 
+        "type": "low",
+        "title": "Publishing service is returning 500",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1",
+        "read": false,
+        "metricUrl": "https://foo.com"
+    },
+    {
+        "id": 5,
+        "type": "high",
+        "title": "De Finibus Bonorum et Malorum",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et qua",
+        "read": false,
+        "metricUrl": "https://foo.com"
+    }
+]
