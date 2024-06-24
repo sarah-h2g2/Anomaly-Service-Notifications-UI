@@ -1,3 +1,11 @@
+# An anamoly service notifications UI built in React + Typescript.
+
+- A user dashboard with notifications in a modal which can be opened or closed.
+- The notifications modal will show all unread notifications.
+- User can mark then as read in which case they will not show up again.
+- The notifications list will show title, description, and severity level of alert.
+    
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
